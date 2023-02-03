@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Partners from "./components/Partners";
 import Services from "./components/Services";
 import Solutions from "./components/Solutions";
+import Wedo from "./components/Wedo";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Services />
       <ChooseUs />
       <Solutions />
+      <Wedo />
     </div>
   );
 }

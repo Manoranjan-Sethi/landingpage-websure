@@ -29,7 +29,7 @@ const ChooseUs = () => {
             <p className="text-white">Deal Structuring</p>
           </div>
           <div>
-            <button className="px-5 py-2 color-[#282C4B] rounded-3xl  border-[rgb(137, 77, 234, 0.5)] text-white bg-pink-600 font-bold py-2 px-4 rounded">
+            <button className="px-5 py-2 color-[#282C4B] rounded-3xl  border-[rgb(137, 77, 234, 0.5)] text-white bg-pink-600 hover:bg-pink-700  font-bold py-2 px-4 rounded">
               Get Started
             </button>
           </div>

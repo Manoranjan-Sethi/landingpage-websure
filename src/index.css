@@ -5,26 +5,3 @@
 * {
   font-family: "Ubuntu";
 }
-
-.logo {
-  width: 254px;
-  height: 36px;
-  left: 135px;
-  top: 49px;
-  font-style: italic;
-  font-weight: 700;
-  font-size: 18px;
-  color: #fb3f6c;
-}
-
-.nav-ele {
-  width: 100px;
-  height: 18px;
-  left: 508px;
-  top: 59px;
-
-  font-style: normal;
-  font-size: 16px;
-
-  color: #747582;
-}
